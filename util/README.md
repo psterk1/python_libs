@@ -5,8 +5,9 @@ The prettified version should include one number after the decimal when the trun
 It should prettify numbers greater than 6 digits and support millions, billions and trillions.
 
 Examples:
-   input: 1000000
-   output: 1M
+
+input: 1000000
+output: 1M
 
    input: 2500000.34
    output: 2.5M
